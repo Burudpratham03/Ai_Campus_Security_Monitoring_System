@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+motor
+ultralytics
+opencv-python
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt<4
+python-dotenv
+email-validator
+twilio
+requests
+google-generativeai
+websockets
+openpyxl
