@@ -20,23 +20,19 @@ Here is the end-to-end operational flow of the AI Campus Security Dashboard:
 
 ### 1. Secure Access (Landing Page)
 Role-based portal for Administrators and Guards featuring OTP-based WhatsApp authentication.
-<img width="1763" height="2045" alt="Landing_Page" src="https://github.com/user-attachments/assets/c38f8057-f1db-4314-acc3-887217af271e" />
-
+<img width="600" alt="Landing_Page" src="https://github.com/user-attachments/assets/c38f8057-f1db-4314-acc3-887217af271e" />
 
 ### 2. The Command Center (Live Object Detection)
 The Admin dashboard where YOLOv8m detections (weapons, fire, violence) arrive as pending alerts for rapid visual verification.
-<img width="1905" height="915" alt="Object Detection   Real Time Alert Notification" src="https://github.com/user-attachments/assets/dbc4f4ac-b49a-4714-ae26-c2c36b2a5930" />
-
+<img width="600" alt="Object Detection   Real Time Alert Notification" src="https://github.com/user-attachments/assets/dbc4f4ac-b49a-4714-ae26-c2c36b2a5930" />
 
 ### 3. Guard Operations (Field Dashboard)
 A distraction-free interface where on-duty guards view confirmed threats and manage their language preferences (English, Hindi, Marathi).
-<img width="1183" height="704" alt="Gaurd_Dasbord   Multi-language" src="https://github.com/user-attachments/assets/d43af973-eb93-4a93-9211-53c1f559ee6a" />
-
+<img width="600" alt="Gaurd_Dasbord   Multi-language" src="https://github.com/user-attachments/assets/d43af973-eb93-4a93-9211-53c1f559ee6a" />
 
 ### 4. Automated Field Dispatch (WhatsApp Alerts)
 Critical threats are instantly pushed to the guard's phone via WhatsApp, complete with a strict escalation loop and live GPS sharing capabilities.
-<img width="1080" height="1741" alt="Threat alert   Responding" src="https://github.com/user-attachments/assets/d8fbca71-b295-40ab-8265-978f67bb786c" />
-
+<img width="600" alt="Threat alert   Responding" src="https://github.com/user-attachments/assets/d8fbca71-b295-40ab-8265-978f67bb786c" />
 
 ## Key Features
 
