@@ -117,8 +117,3 @@ fastapi, react, typescript, mongodb, computer-vision, ai, security-monitoring, c
 
 MIT License is recommended for open collaboration.
 
----
-
-If you want, I can also give you:
-1. a short recruiter-style README version, and  
-2. a polished README with badges, screenshots, and API endpoint table.
