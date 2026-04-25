@@ -129,10 +129,6 @@ Before publishing this repository:
 - Exclude local model files if large or private
 - Do not upload sessions, captures, exports, or secrets
 
-## Suggested GitHub Topics
-
-fastapi, react, typescript, mongodb, computer-vision, ai, security-monitoring, campus-security, surveillance, incident-response
-
 ## License
 
 MIT License is recommended for open collaboration.
