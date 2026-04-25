@@ -32,7 +32,7 @@ A distraction-free interface where on-duty guards view confirmed threats and man
 
 ### 4. Automated Field Dispatch (WhatsApp Alerts)
 Critical threats are instantly pushed to the guard's phone via WhatsApp, complete with a strict escalation loop and live GPS sharing capabilities.
-<img width="600" alt="Threat alert   Responding" src="https://github.com/user-attachments/assets/d8fbca71-b295-40ab-8265-978f67bb786c" />
+<img width="300" alt="Threat alert   Responding" src="https://github.com/user-attachments/assets/d8fbca71-b295-40ab-8265-978f67bb786c" />
 
 ## Key Features
 
